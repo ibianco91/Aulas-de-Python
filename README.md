@@ -1,2 +1,2 @@
 # Aulas de Python
- Aulas do Cursoemvideo
+ Aulas do Curso em video
